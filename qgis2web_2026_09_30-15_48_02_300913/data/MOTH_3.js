@@ -1,0 +1,1 @@
+var json_MOTH_3 = {"type":"FeatureCollection","name":"MOTH_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"HABITAT":"POND + GRASSY"},"geometry":{"type":"Point","coordinates":[-75.66033797036296,35.875795842113931]}}]}
